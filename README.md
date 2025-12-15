@@ -23,3 +23,6 @@ The model reaches **high classification accuracy (over 90%+).**
 ---
 
 ## 📁 Repository Structure
+tumor_detection/
+├── tumor_detection.ipynb    # Jupyter notebook containing preprocessing, training, and evaluation
+├── README.md                # Project documentation
