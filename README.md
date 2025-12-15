@@ -24,4 +24,6 @@ The model demonstrates promising classification performance.
 ---
 
 ## 📁 Repository Structure
+- **tumor_detection.ipynb** – Jupyter notebook containing data preprocessing, model training, and evaluation  
+- **README.md** – Project documentation
 
