@@ -27,3 +27,11 @@ The model demonstrates promising classification performance.
 - **tumor_detection.ipynb** – Jupyter notebook containing data preprocessing, model training, and evaluation  
 - **README.md** – Project documentation
 
+## 📊 Results
+
+- Random Forest Classifier achieved an accuracy of **~96%**
+- The model demonstrates strong precision and recall for both benign and malignant tumor classes
+- Confusion matrix analysis shows very few false negatives, which is critical in medical diagnosis
+
+This project demonstrates an end-to-end machine learning pipeline for tumor detection using real-world medical data.
+
