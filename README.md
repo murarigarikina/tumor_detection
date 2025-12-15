@@ -16,7 +16,8 @@ Medical image analysis is a critical task in healthcare, and this project applie
 - Data preprocessing techniques like normalization and feature extraction are applied to enhance model performance.  
 - Hyperparameter tuning is performed to optimize model accuracy.
 
-The model reaches **high classification accuracy (over 90%+).**
+The model demonstrates promising classification performance.
+
 
 > (Update the percentage here with your actual result if different)
 
@@ -25,4 +26,5 @@ The model reaches **high classification accuracy (over 90%+).**
 ## 📁 Repository Structure
 tumor_detection/
 ├── tumor_detection.ipynb    # Jupyter notebook containing preprocessing, training, and evaluation
+
 ├── README.md                # Project documentation
